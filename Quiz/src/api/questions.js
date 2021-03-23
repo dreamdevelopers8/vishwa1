@@ -100,7 +100,7 @@ var quizQuestions = [
       },
       {
  
-        content: "Dakshina Kannada",
+        content: "Dakshina Kannada Tulu",
         answer : false
       },
       {
